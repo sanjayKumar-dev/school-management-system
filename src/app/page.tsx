@@ -1,6 +1,6 @@
-import Header from "@/components/generic/Header";
+import Header from "@/components/generic/header/Header";
 
-import ResponsiveAppBar from "@/components/generic/ResponsiveAppBar";
+import ResponsiveAppBar from "@/components/generic/header/ResponsiveAppBar";
 
 export default function Home() {
   return (
